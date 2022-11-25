@@ -12,3 +12,5 @@ ranges
 timestables
 shopping
 searching
+adventure
+exercise1
