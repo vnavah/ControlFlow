@@ -11,3 +11,4 @@ strings2
 ranges
 timestables
 shopping
+searching
