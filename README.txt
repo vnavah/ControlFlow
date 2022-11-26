@@ -15,3 +15,5 @@ searching
 adventure
 exercise1
 exercise2
+gamechallenge
+hilow
