@@ -19,6 +19,9 @@ while True:
         print("I got it in {} guesses! ".format(guesses))
         break
     else:
+
         print("Please enter h,l or c. ")
 
-    guesses = guesses + 1
+    # guesses = guesses
+    guesses += 1
+
