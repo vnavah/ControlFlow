@@ -1,7 +1,7 @@
 numbers = [1, 45, 31, 24, 80]
 for number in numbers:
     if number % 8 == 0:
-        #rejet the list
+        # reject the list
         print("The numbers are unacceptable")
         break
 else:
